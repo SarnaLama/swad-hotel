@@ -72,6 +72,6 @@
   
   <script>
   export default {
-    name: "Blog",
+    name: "BlogHotel",
   };
   </script>

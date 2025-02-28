@@ -23,7 +23,7 @@
 
 <script>
 export default {
-  name: "Navbar",
+  name: "NavbarHotel", //Rename to multi-word
   methods: {
     hamburgerClick() {
       let navbar = document.getElementById("navbar");

@@ -8,8 +8,8 @@ import App from "./App.vue";
 import AOS from "node_modules/aos";
 import "@fortawesome/fontawesome-free/css/all.css";
 import "aos/dist/aos.css";
-import "@/src/assets/styles/stylesheet.css"
-import "@/src/assets/styles/responsive.css"
+import "@/assets/styles/stylesheet.css"
+import "@/assets/styles/responsive.css"
 
 const app = createApp(App);
 app.mount("#app");

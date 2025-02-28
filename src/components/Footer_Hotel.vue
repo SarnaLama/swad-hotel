@@ -19,6 +19,6 @@
   
   <script>
   export default {
-    name: "Footer",
+    name: "FooterHotel",
   };
   </script>

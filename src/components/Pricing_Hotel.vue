@@ -72,6 +72,6 @@
   
   <script>
   export default {
-    name: "Pricing",
+    name: "PricingHotel",
   };
   </script>

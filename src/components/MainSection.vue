@@ -20,7 +20,7 @@
   </template>
   
   <script>
-  import Navbar from "./Navbar.vue";
+  import Navbar from "./Navbar_Hotel.vue";
   
   export default {
     name: "MainSection",

@@ -47,6 +47,6 @@
   
   <script>
   export default {
-    name: "Reviews",
+    name: "ReviewsHotel",
   };
   </script>

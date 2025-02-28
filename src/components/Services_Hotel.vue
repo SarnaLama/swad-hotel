@@ -48,6 +48,6 @@
   
   <script>
   export default {
-    name: "Services",
+    name: "ServicesHotel",
   };
   </script>
