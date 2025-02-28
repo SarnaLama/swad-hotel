@@ -50,3 +50,89 @@
     name: "ReviewsHotel",
   };
   </script>
+
+
+<style scoped>
+.reviews-section {
+  padding-bottom: 100px;
+}
+
+.section-title {
+  font-style: italic;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-bottom: 20px;
+}
+
+.review {
+  display: flex;
+}
+
+.image-review {
+  width: 50%;
+  margin-right: 3rem;
+}
+
+.image-review img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.review-box {
+  width: 50%;
+  margin-left: 3rem;
+  display: inline-block;
+  position: relative;
+}
+
+.review-information {
+  position: absolute;
+  top: 20%;
+}
+
+.arrow-buttons {
+  float: right;
+}
+
+.material-icons-outlined {
+  background-color: rgba(60, 60, 60, 0.2);
+  font-size: 48px !important;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+.arrow-buttons span:hover {
+  background-color: rgba(60, 60, 60, 0.6);
+  transition: all 0.5s;
+}
+
+.fa-quote-left {
+  font-size: 2rem !important;
+  color: #e6f7f2;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.review-information {
+  width: 70%;
+}
+
+.review-information p {
+  margin-top: 2px;
+}
+
+.rounded-image {
+  float: left;
+  width: 5.5rem;
+  border-radius: 50%;
+  margin-right: 25px;
+}
+
+.reviewer-name {
+  padding-top: 20px;
+  margin-bottom: -5px;
+  font-size: 1.3rem;
+}
+</style>

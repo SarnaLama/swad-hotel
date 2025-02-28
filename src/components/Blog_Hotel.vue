@@ -75,3 +75,100 @@
     name: "BlogHotel",
   };
   </script>
+
+<style scoped>
+.blog-and-news {
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+
+.blog-contents {
+  display: flex;
+}
+
+.heading-blog {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.heading-blog h2 {
+  margin-bottom: -2px;
+}
+
+.blog {
+  width: 50%;
+  margin-right: 30px;
+}
+
+.second {
+  margin-right: 0px;
+}
+
+.fa-calendar {
+  color: #805824;
+}
+
+.fa-user {
+  color: #284f99;
+}
+
+.blog-author span {
+  background-color: rgba(40, 80, 153, 0.1);
+  border-radius: 100px;
+  padding: 20px;
+}
+
+.blog img {
+  margin-bottom: 20px;
+}
+
+.rounded {
+  margin-right: 15px;
+}
+
+.blog-info {
+  display: flex;
+}
+
+.time-posted {
+  display: flex;
+  flex-direction: row;
+}
+
+.blog-author {
+  display: flex;
+  flex-direction: row;
+  padding-left: 100px;
+}
+
+.time-posted h4 {
+  margin-top: 16px;
+  font-weight: normal;
+}
+
+.blog-author h4 {
+  margin-top: 16px;
+  font-weight: normal;
+}
+
+.blog-content h4 {
+  font-size: 1.3rem;
+  width: 85%;
+}
+
+.blog-content p {
+  width: 80%;
+}
+
+.time-posted span {
+  background-color: rgba(128, 88, 36, 0.1);
+  border-radius: 100px;
+  padding: 20px;
+}
+
+.blog img {
+  width: 100%;
+  border-radius: 10px;
+}
+</style>
