@@ -5,7 +5,7 @@ createApp(App).mount('#app')*/
 
 import { createApp } from "vue";
 import App from "./App.vue";
-import AOS from "node_modules/aos";
+import AOS from 'aos';
 import "@fortawesome/fontawesome-free/css/all.css";
 import "aos/dist/aos.css";
 import "@/assets/styles/stylesheet.css"
